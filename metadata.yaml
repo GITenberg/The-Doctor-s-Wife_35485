@@ -21,6 +21,8 @@ description: Flaubert's Madame Bovary is regarded as a masterpiece of nineteenth
   the title character. In this innovative novel, author Mary Elizabeth Braddon gives
   Mme Bovary a bully pulpit of her own, presenting the same story from the doctor's
   wife's perspective.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35485#The-Doctor-s-Wife
 gutenberg_issued: '2011-03-04'
 gutenberg_type: Text
 identifiers:
