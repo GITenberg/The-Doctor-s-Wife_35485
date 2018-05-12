@@ -1,0 +1,39 @@
+_repo: The-Doctor-s-Wife_35485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - Breddon, Miss
+    - White, Babington
+    - Maxwell, Mary Elizabeth Braddon
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: Flaubert's Madame Bovary is regarded as a masterpiece of nineteenth-century
+  literature. However, that novel hinges on a singularly unsympathetic portrayal of
+  the title character. In this innovative novel, author Mary Elizabeth Braddon gives
+  Mme Bovary a bully pulpit of her own, presenting the same story from the doctor's
+  wife's perspective.
+gutenberg_issued: '2011-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Middle class -- Fiction'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Physicians'' spouses -- Fiction'
+- !lcc 'PR'
+title: 'The Doctor''s Wife: A Novel'
+url: http://www.gutenberg.org/ebooks/35485
